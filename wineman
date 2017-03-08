@@ -4,7 +4,7 @@ function helpScreen {
   echo 'Commands:'
   echo '--run <program> - Run a program with the default prefix'
   echo '--prefix <prefix name> <program> - Run a program with a custom prefix'
-  echo '--mprefix <prefix name> <architecture: 32/64> - Create a new prefix'
+  echo '--mprefix <prefix name> <architecture: 32/64> - Create a new prefix (defaults to 64-bit)'
   echo '--rmprefix <prefix name> - Remove a prefix'
   echo '--tricks <trick name> - Run winetricks command'
   echo '--tricksp <prefix> <trick name> - Run winetricks command with custom prefix'
