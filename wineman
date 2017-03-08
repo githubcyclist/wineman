@@ -1,6 +1,6 @@
 #!/bin/bash
 function helpScreen {
-echo 'Usage: wineman [ARGUMENTS]'
+  echo 'Usage: wineman [ARGUMENTS]'
   echo 'Commands:'
   echo '--run <program> - Run a program with the default prefix'
   echo '--prefix <prefix name> <program> - Run a program with a custom prefix'
