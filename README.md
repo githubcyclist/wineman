@@ -1,6 +1,7 @@
 # Wine Manager Script - wineman
 A simple Bash script to help manage Wine.
-Should be compatible with all Linux distros. Tested with Ubuntu only.
+
+Should be compatible with all Linux distros, but it was only tested with Ubuntu.
 
 ## Installation
 Installation is very easy.
