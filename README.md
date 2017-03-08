@@ -10,4 +10,8 @@ Installation is very easy.
 
 2. Open a terminal in the folder which you cloned to, and run "chmod +x wineman".
 
-3. Then use "./wineman" to activate. Optionally, copy it to /usr/bin.
+3. Then use "./wineman" to show help. Optionally, copy it to /usr/bin.
+
+## Usage
+The usage instructions are displayed when the program is run, but here they are anyway:
+
