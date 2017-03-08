@@ -14,14 +14,25 @@ Installation is very easy.
 
 ## Usage
 The usage instructions are displayed when the program is run, but here they are anyway:
+
 wineman [ARGUMENTS]
+
 Commands:
+
 --run <program> - Run a program with the default prefix
+
 --prefix <prefix name> <program> - Run a program with a custom prefix
+
 --mprefix <prefix name> <architecture: 32/64> - Create a new prefix (defaults to 64-bit)
+
 --rmprefix <prefix name> - Remove a prefix
+
 --tricks <trick name> - Run winetricks command
+
 --tricksp <prefix> <trick name> - Run winetricks command with custom prefix
+
 --conf - Open winecfg
+
 --confp <prefix> - Open winecfg with custom prefix
+
 --help - Display this screen
